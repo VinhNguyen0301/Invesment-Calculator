@@ -63,7 +63,7 @@ function App() {
             Reset
           </button>
           <button type="submit" className="button">
-            Calculate
+            Calculate.
           </button>
         </p>
       </form>
